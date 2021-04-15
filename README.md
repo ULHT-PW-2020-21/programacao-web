@@ -1,11 +1,11 @@
 # Programacao Web
 
 ## Enquadramento
-Make it work  ←  foco de Fundamentos da Programação  
-Make it right  ←   foco de Linguagens de Programação I
-Make it fast  ←   foco de Algoritmia e Estruturas de Dados
-Make it easy to change   ←  foco de Linguagens de Programação II  
-**Make it run elsewhere, in the Web ←  foco de Programação Web**
+* *Make it work*  ←  foco de Fundamentos da Programação  
+* *Make it right*  ←   foco de Linguagens de Programação I
+* *Make it fast*  ←   foco de Algoritmia e Estruturas de Dados
+* *Make it easy to change*   ←  foco de Linguagens de Programação II  
+* ***Make it run elsewhere, in the Web* ←  foco de Programação Web**
 
 
 ## Objetivos
