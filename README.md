@@ -18,10 +18,10 @@ Make it easy to change   ←  foco de Linguagens de Programação II
 
 ## Programa
 
-* Módulo 1: A Web e seus paradigmas [1 semana]
+* **Módulo 1: A Web e seus paradigmas** [1 semana]
     * Funcionamento da Web
     * Tecnologias, paradigmas e padrões de desenho da Web
-* Módulo 2: HTML e CSS para desenho de páginas Web [4  semanas]
+* **Módulo 2: HTML e CSS para desenho de páginas Web** [4  semanas]
     * HTML e seus elementos para estruturação de conteúdos multimédia
     * Formulários para envio de dados
     * SVG para gráficos vetoriais escaláveis
@@ -33,14 +33,14 @@ Make it easy to change   ←  foco de Linguagens de Programação II
     * Efeitos e animações CSS
     * Menus dropdown
     * Cor
-* Módulo 3: Desenvolvimento Web com Python e Django [5 semanas]
+* **Módulo 3: Desenvolvimento back-end com Python e Django** [5 semanas]
     * Python para desenvolvimento Web
     * Sintaxe. Variáveis. Operadores. Tipos simples: numéricos e strings Decisores e ciclos
     * Tipos compostos: listas, tuplos, sets e dicionarios.
     * Funções. Ficheiros. Classes.
     * Django, a Web Framework para perfecionistas com deadlines
     * Implantação na cloud, Web services, APIs, segurança, escalabilidade
-* Módulo 4: JavaScript para programação Front-end [4 semanas]
+* **Módulo 4: JavaScript para programação Front-end** [4 semanas]
     * JavaScript para comportamento de conteúdos e validação de dados
     * React para construir aplicações visualmente atraentes
 
