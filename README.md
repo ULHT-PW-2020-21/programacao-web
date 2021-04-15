@@ -1,4 +1,4 @@
-# programacao-web
+# Programacao Web
 
 ## Enquadramento
 Make it work  ←  foco de Fundamentos da Programação  
@@ -44,8 +44,8 @@ Make it easy to change   ←  foco de Linguagens de Programação II
     * JavaScript para comportamento de conteúdos e validação de dados
     * React para construir aplicações visualmente atraentes
 
-### Slides e Vídeos das Aulas
-* Os slides das aulas estão como links no programa
-* Os vídeos das aulas disponíveis no canal (Educast)
+### Material
+* Os slides das aulas estão como disponíveis como links no programa.
+* Os vídeos das aulas estão disponíveis no canal Educast Programaçao Web.
 
 Docente responsável: Lúcio Studer Ferreira, lucio.studer@ulusofona.pt
