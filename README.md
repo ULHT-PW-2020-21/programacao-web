@@ -45,7 +45,7 @@
     * React para construir aplicações visualmente atraentes
 
 ### Material
-* Os vídeos das aulas estão disponíveis no [canal Educast](https://educast.fccn.pt/channels/7961/).
+* Os vídeos das aulas estão disponíveis no [canal Educast](https://educast.fccn.pt/channels/7961/) - deverá fazer login com as credenciais da Lusófona.
 * Os slides das aulas estão como disponíveis como links no programa.
 * Os enunciados dos laboratórios e projetos estão disponíveis neste repositório
 
